@@ -159,9 +159,9 @@ a:focus {
     font-size: 18px;
 }
 
-.brand-heanding-desc{
-    font-size:50px;
-    margin-bottom: 50px;
+.brand-heading-desc{
+    font-size:28px;
+    margin-bottom: 25px;
 }
 
 @media(min-width:767px) {
